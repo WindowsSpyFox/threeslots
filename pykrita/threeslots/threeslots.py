@@ -19,7 +19,7 @@ class ThreeSlotsExtension(krita.Extension):
     def __init__(self, parent):
         super(ThreeSlotsExtension, self).__init__(parent)
 
-        self.num_slots = 3
+        self.num_slots = 10
         self.current_idx = None
 
         self.actions = []
