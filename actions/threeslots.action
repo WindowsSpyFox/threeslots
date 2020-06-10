@@ -41,6 +41,98 @@
       <isCheckable>false</isCheckable>
       <statusTip></statusTip>
     </Action>
+    
+     <Action name="activate_slot_4">
+      <icon></icon>
+      <text>Activate Brush (Slot 4)</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags>10000</activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+4</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+     <Action name="activate_slot_5">
+      <icon></icon>
+      <text>Activate Brush (Slot 5)</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags>10000</activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+5</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+     <Action name="activate_slot_6">
+      <icon></icon>
+      <text>Activate Brush (Slot 6)</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags>10000</activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+6</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+     <Action name="activate_slot_7">
+      <icon></icon>
+      <text>Activate Brush (Slot 7)</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags>10000</activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+7</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+     <Action name="activate_slot_8">
+      <icon></icon>
+      <text>Activate Brush (Slot 8)</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags>10000</activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+8</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+     <Action name="activate_slot_9">
+      <icon></icon>
+      <text>Activate Brush (Slot 9)</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags>10000</activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+9</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
+     <Action name="activate_slot_10">
+      <icon></icon>
+      <text>Activate Brush (Slot 10)</text>
+      <whatsThis></whatsThis>
+      <toolTip></toolTip>
+      <iconText></iconText>
+      <activationFlags>10000</activationFlags>
+      <activationConditions>0</activationConditions>
+      <shortcut>ctrl+alt+0</shortcut>
+      <isCheckable>false</isCheckable>
+      <statusTip></statusTip>
+    </Action>
+
 
   </Actions>
 </ActionCollection>
