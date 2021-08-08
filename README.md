@@ -1,7 +1,7 @@
-# Threeslots
-This is a script for Krita that lets you quickly switch between ~~three~~ TEN brush "slots".
+# Tenslots with randomizer
+This is a script (in development) for Krita that lets you assign ten brush "slots" randomly based on a tag and enables you to quickly switch between those.
 
-One of these slots has the eraser option permanently toggled on with the other have it toggled off.
+All functionnality associated with the automatic eraser toggling has be deactivated.
 
 Each slot remember the last brush it had and it also stores the size of the brush.
 
